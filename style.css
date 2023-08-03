@@ -1,0 +1,49 @@
+  body{
+        background-image:url('mom.jpg');
+        background-size: cover;
+    }
+    .name{
+        text-align: center;
+        font-size: 60px;
+        letter-spacing: 1px;
+        
+    }
+.image1{
+
+    text-align: center;
+    letter-spacing: 100px;
+    
+}
+.image2{
+
+    text-align: center;
+    letter-spacing: 100px;
+    
+}
+.vedio1{
+        text-align: center; 
+        letter-spacing: 1px;
+        font-size: 40px;
+}
+.Audio1{
+    text-align: center;
+    word-spacing: 250px;
+    
+}
+.Audio2{
+    text-align: center;
+    word-spacing: 250px;
+    text-decoration-color: rgb(27, 193, 15);
+}
+.image{
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: block end 20px;
+    
+}
+h1{
+    text-align: center;
+    animation-duration: 25ms;
+    color: black;
+}
